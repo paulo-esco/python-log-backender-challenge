@@ -1,4 +1,4 @@
-# Die Hard
+# Идите нахуй! Бесплатно ваши головняки разгребать не собираюсь
 
 This is a project with a test task for backend developers.
 
